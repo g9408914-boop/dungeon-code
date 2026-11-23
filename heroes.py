@@ -23,3 +23,4 @@ def show_hero(hero):
     print(f"  {hero['name']} — {hero['class']}")
     print(f"  HP: {hero['hp']}")
     print(f"  Attack: {hero['attack']}")
+
